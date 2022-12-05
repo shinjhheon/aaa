@@ -76,7 +76,7 @@
             this.종료XToolStripMenuItem});
             this.파일FToolStripMenuItem.Name = "파일FToolStripMenuItem";
             this.파일FToolStripMenuItem.Size = new System.Drawing.Size(57, 20);
-            this.파일FToolStripMenuItem.Text = "파일(&F)";
+            this.파일FToolStripMenuItem.Text = "파일(&F)"; 
             // 
             // 새파일NToolStripMenuItem
             // 
